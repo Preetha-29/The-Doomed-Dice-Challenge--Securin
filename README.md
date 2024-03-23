@@ -1,7 +1,10 @@
 # The-Doomed-Dice-Challenge--Securin
 The Doomed Dice Challenge
+
 Problem Statement: The Doomed Dice Challenge
+
 Part-A
+
 The below problems must be solved & implemented in Python/Java/Ruby/C++/Go
 You are given two six-sided dice, Die A and Die B, each with faces numbered from 1 to 6.
 You can only roll both the dice together & your turn is guided by the obtained sum.
@@ -21,6 +24,7 @@ Example: P(Sum = 2) = 1/X as there is only one combination possible to obtain
 Sum = 2. Die A = Die B = 1.
 
 Part-B
+
 Now comes the real challenge. You were happily spending a lazy afternoon playing
 your board game with your dice when suddenly the mischievous Norse God Loki ( You
 love Thor too much & Loki didn’t like that much ) appeared.
